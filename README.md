@@ -61,4 +61,6 @@ For any selected vehicle:
 ├── requirements.txt
 ├── config.toml
 └── README.md
+**Note:**  
+`.streamlit/secrets.toml` is intentionally **not** included. Secrets must be stored only in Streamlit Cloud or your local environment.
 
